@@ -1,4 +1,4 @@
-# Soil Moisture sensor
+# Soil Moisture Sensor
 
 <img src="https://cdn-learn.adafruit.com/assets/assets/000/065/919/large1024/adafruit_products_4026_iso_demo_ORIG_2018_11.jpg?1542235880" alt="alt text" width="500">
 
